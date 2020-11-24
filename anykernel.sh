@@ -32,6 +32,8 @@ ramdisk_compression=auto;
 ## AnyKernel install
 dump_boot;
 
+cat $home/dtb > $split_img/kernel_dtb;
+
 write_boot;
 ## end install
 
