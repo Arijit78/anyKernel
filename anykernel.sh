@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Extended Kernel by attack11 @ xda-developers
+kernel.string=MagicMoon Kernel by Arijit Saha (@whyred_404)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
